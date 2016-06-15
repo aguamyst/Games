@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Alexandria","characterIndex":0,"characterName":"Alexandria","classId":1,"equips":[0,0,0,3,4],"faceIndex":0,"faceName":"Alexandria","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alexandria","nickname":"Alex","note":"","profile":""},
+{"id":2,"battlerName":"Gimel","characterIndex":0,"characterName":"Gimel","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Gimel","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gimel","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Saiya","nickname":"Saiya","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
