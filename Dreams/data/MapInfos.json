@@ -15,17 +15,7 @@ null,
 {"id":13,"expanded":false,"name":"Alt Bedroom","order":15,"parentId":9,"scrollX":453,"scrollY":323.5},
 {"id":14,"expanded":false,"name":"Alt Office","order":13,"parentId":9,"scrollX":453,"scrollY":323.5},
 {"id":15,"expanded":false,"name":"Alt Backyard","order":14,"parentId":9,"scrollX":453,"scrollY":323.5},
-<<<<<<< HEAD
-{"id":16,"expanded":false,"name":"Eltingville Market","order":16,"parentId":1,"scrollX":453,"scrollY":323.5},
-=======
 {"id":16,"expanded":true,"name":"Eltingville Market","order":16,"parentId":1,"scrollX":453,"scrollY":323.5},
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> master
-=======
->>>>>>> master
 {"id":17,"expanded":false,"name":"Inn 1F","order":17,"parentId":16,"scrollX":563,"scrollY":640.5},
 {"id":18,"expanded":false,"name":"Inn 2F","order":18,"parentId":16,"scrollX":445,"scrollY":396.5},
 {"id":19,"expanded":false,"name":"Armor Shop","order":19,"parentId":16,"scrollX":453,"scrollY":315.5},
