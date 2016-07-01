@@ -40,7 +40,8 @@ Hudell.OrangeLighting = Hudell.OrangeLighting || {};
 
 (function(namespace) {
   "use strict";
-
+  this.createLightmask();
+  
   namespace.addOns = {};
   namespace._listeners = {};
 
