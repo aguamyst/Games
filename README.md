@@ -2,7 +2,7 @@
 
 What has been created so far (each are incomplete):
 
-06.30.2016 - V. 0.0001
+06.30.2016 - V. 0.0002
 
 * Fix to squirrel map
 * Fix to quest icons
