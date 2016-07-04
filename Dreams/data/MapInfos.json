@@ -26,7 +26,7 @@ null,
 {"id":24,"expanded":false,"name":"Bar","order":27,"parentId":16,"scrollX":520,"scrollY":323.5},
 {"id":25,"expanded":false,"name":"Hallway","order":11,"parentId":7,"scrollX":520,"scrollY":323.5},
 {"id":26,"expanded":false,"name":"Alt Hallway","order":21,"parentId":9,"scrollX":520,"scrollY":323.5},
-{"id":27,"expanded":false,"name":"Stain Island (Medieval)","order":12,"parentId":0,"scrollX":520,"scrollY":323.5},
+{"id":27,"expanded":true,"name":"Stain Island (Medieval)","order":12,"parentId":0,"scrollX":520,"scrollY":323.5},
 null,
 {"id":29,"expanded":true,"name":"Stain Island (Home)","order":3,"parentId":0,"scrollX":520,"scrollY":323.5}
 ]
