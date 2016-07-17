@@ -20,6 +20,7 @@ What has been created so far (each are incomplete):
 
 KNOWN ISSUES
 - Mobile directional pad too small and does not work well.
+- Game crashes on mobile.
 
 06.30.2016 - V. 0.0002
 
