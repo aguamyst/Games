@@ -16,6 +16,10 @@ What has been created so far (each are incomplete):
 * New class: Elementalist
 * Created a secret room
 * Barrier scroll spell enabled
+* Added TestFairy SDK
+
+KNOWN ISSUES
+- Mobile directional pad too small and does not work well.
 
 06.30.2016 - V. 0.0002
 
