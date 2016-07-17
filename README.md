@@ -19,8 +19,9 @@ What has been created so far (each are incomplete):
 * Added TestFairy SDK
 
 KNOWN ISSUES
-- Mobile directional pad too small and does not work well.
+- Mobile directional pad too small and does not work well so I disabled it for now.
 - Game crashes on mobile.
+- Received memory warning.
 
 06.30.2016 - V. 0.0002
 
