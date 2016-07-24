@@ -1,8 +1,32 @@
-#The Dream Book Game
+# The Dream Book Game
+======
 
-What has been created so far (each are incomplete):
+## What has been created so far (each are incomplete):
 
-06.30.2016 - V. 0.0002
+------
+### 07.17.2016 - V. 0.0003
+
+* Enabled FPS overlay
+* Revised kill counter messaging
+* Replaced intro story (thanks Crystal)
+* Fixed some default item prices
+* Fixed entrances/exits on maps
+* Added lighting to areas
+* Added Tutorial Fairy
+* Added fireflies
+* Revamped Stain Island map
+* New class: Elementalist
+* Created a secret room
+* Barrier scroll spell enabled
+* Added TestFairy SDK
+
+### KNOWN ISSUES
+- Mobile directional pad too small and does not work well so I disabled it for now.
+- Game crashes on mobile.
+- Received memory warning.
+
+------
+### 06.30.2016 - V. 0.0002
 
 * Fix to squirrel map
 * Fix to quest icons
@@ -16,7 +40,8 @@ What has been created so far (each are incomplete):
 * Added lighting effects to some areas
 * Added sound effects to most areas
 
-06.18.2016 - V. 0.0001
+------
+### 06.18.2016 - V. 0.0001
 
 * Introduction story
 * "Stain Island" map with two areas: "Home" and "Eltingville Market"
