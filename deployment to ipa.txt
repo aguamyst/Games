@@ -1,6 +1,6 @@
-1) Copy deployed www folder to ~/Desktop/work/www/
-2) Edit index.html and enter <script type="text/javascript" src="cordova.js"></script>
-under <body style="background-color: black">
+1) Copy deployed /Library/WebServer/Documents/RPG Maker/mobile/Dreams/www/ folder to ~/Desktop/work/www/
+2) Edit index.html and enter:
+<script type="text/javascript" src="cordova.js"></script> //under <body style="background-color: black">
 
 3) Type in Terminal:
 cd ~/Desktop/work/
@@ -17,9 +17,30 @@ cordova emulate ios
 -Right-click the archive and when you select [Show in Finder] you can open the location of the archive file in the Finder.
 -The archive will be located relatively deeply nested in folders at /Users/<User Name>/Library/Developer/Xcode/Archives/Date/ 
 -It's possible to also export the package as is using [Export...] in the right pane of the Organizer, but since we want to explicitly specify the provisioning profile, we will export from the terminal. We will use the "xcodebuild" command to export using the terminal. 
--Below is an example of a command.
+-Below is an example of a command:
 
 xcodebuild -exportArchive -archivePath ~/Library/Developer/Xcode/Archives/2016-07-16/TheDreamBook\ 7-16-16,\ 10.49\ PM.xcarchive/ -exportProvisioningProfile "The Dream Book" -exportPath ~/Desktop/TheDreamBook.ipa
+
+
+Install TestFairy SDK
+
+https://app.testfairy.com/sdk/ios/
+
+1) Download the SDK
+2) Unzip then drag and drop the files with the AppDelegate.m file
+3) Open the AppDelegate.m file and add:
+#import "TestFairy.h" //goes with other imports
+[TestFairy begin:@"62998ef7f01421885882a9b47493b1427fbe248c"]; //goes inside function {}
+
+4) Click “TheDreamBook” under Targets (middle section)
+5) Click “Build Phases”
+6) Open “Link Binary with Libraries”
+7) Add the following frameworks:
+CoreMedia.framework
+CoreMotion.framework
+AVFoundation.framework
+SystemConfiguration.framework
+OpenGLES.framework
 
 
 
